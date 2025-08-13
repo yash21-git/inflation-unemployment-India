@@ -63,6 +63,11 @@ In this section, we test the **Phillips Curve** hypothesis — the inverse relat
 - For India (1991–2024), the coefficient is positive and insignificant, indicating **no strong evidence** of the Phillips curve.
 - This could be due to structural unemployment, a large informal labor sector, and supply shocks like COVID-19 and global oil price changes.
 
+** Economic Interpretation
+
+The regression results indicate no strong evidence of a Phillips curve relationship for India during 1991–2024. The positive but insignificant coefficient suggests that inflation and unemployment moved largely independently in this period. This can be explained by India's large informal labor market, persistent structural unemployment, and frequent supply-side inflation shocks (e.g., food prices, oil imports) that raise prices without boosting employment. Policy measures like MNREGA and subsidies may have further weakened the short-run trade-off between inflation and unemployment.
+
+
 # LIMITATIONS
 The unemployment data in my analysis is only available from 1991 onwards while inflation data spans 1960–2024. This creates a mismatch in coverage that limits the scope of joint analysis. Any direct inflation–unemployment relationship, such as the Phillips curve, can only be studied from 1991 onwards, meaning earlier inflation spikes like the 1974 oil shock cannot be directly related to unemployment trends. It also means that VAR modeling, which requires both series to share the same time span, can only be applied to the post-1991 subset. As a result, we miss the opportunity to study long-term dynamics across different structural phases of the economy. Furthermore, India's labor market underwent significant reforms in the 1990s including liberalization, globalization and technology adoption which changed its behavior. Findings from 1991–2024 may not fully generalize to earlier decades. I have therefore clearly stated in my documentation that all joint analyses are based on the overlapping period and must be interpreted in that historical context.
 
